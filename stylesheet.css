@@ -1,0 +1,18 @@
+
+.lamps {
+    float: left;
+    width: 120px;
+    border-radius: 10% 50%;
+    margin-right: 10px;
+}
+body{
+    padding: 100px;
+    padding-top : 10px;
+    float: left;
+    font-family: 'archivo';
+    background-color: #121212;
+    color: rgb(215, 215, 215);
+}
+a{
+    color: rgb(215, 215, 215);
+}
