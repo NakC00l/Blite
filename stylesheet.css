@@ -1,17 +1,22 @@
-
-.logo {
+html {
+    display: table;
+    margin: auto;
+}
+.lamps {
     float: left;
     width: 120px;
-    border-radius: 10% 50%;
     margin-right: 10px;
 }
 body{
-    padding: 25px;
+    text-align: justify;
+    padding: 30%;
     padding-top : 10px;
     float: left;
-    font-family: 'archivo';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #111111;
     color: rgb(215, 215, 215);
+    display: table-cell;
+    vertical-align: middle;
 }
 a{
     color: rgb(215, 215, 215);
